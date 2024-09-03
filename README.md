@@ -1,5 +1,5 @@
 # Braille Translator
-Overview
+
 This repository contains a Braille Translator script developed as part of the Engineering Intern Coding Challenge for Winter 2025. The script can translate English text to Braille and Braille back to English. It handles letters, numbers, special characters, and spaces.
 
 ## How It Works
