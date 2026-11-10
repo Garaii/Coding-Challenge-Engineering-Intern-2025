@@ -32,6 +32,6 @@ I’m an aspiring fullstack developper interested in CyberSecurity, Robotics and
 <img align= "left" alt="C" width="30px" style="padding-rigth:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png">
  😁 I also speak French, English, Spanish and Arabic
  
- #### 📫 Reach me on my email: Ikramgara5@gmail.com or on LinkedIn: https://www.linkedin.com/in/ikram-gara-28a501257/
+ #### 📫 Reach me on my email: Ikramgara5 (at) gmail.com or on LinkedIn: https://www.linkedin.com/in/ikram-gara-28a501257/
 Thanks for visiting my page!
 
